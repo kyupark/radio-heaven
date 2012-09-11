@@ -1,0 +1,1 @@
+ssh sshacs@kyupark.upload.akamai.com wget -o /182482/radio-heaven/log.txt -P /182482/radio-heaven/podcast/ -i /182482/radio-heaven/rh_podcast_list.txt
